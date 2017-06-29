@@ -1,144 +1,13 @@
 
-# MAIN THEME
+# MAIN THEME ##################
+
 music = {
 	name = "maintheme"
-	file = "hoi4mainthemeallies.ogg"
+	file = "eve_of_destruction.ogg"
 	volume = 0.65
 }
 
-# General Peace:
-music = {
-	name = "general_peace_1"
-	file = "general_peace_heartsofmen.ogg"
-	volume = 0.65
-}
-music = {
-	name = "general_peace_2"
-	file = "thewarends.ogg"
-	volume = 0.65
-}
-music = {
-	name = "general_peace_3"
-	file = "asongforthechildrenofww2.ogg"
-	volume = 0.65
-}
-
-# General war:
-music = {
-	name = "general_war_1"
-	file = "general_war_bringforththetanks.ogg"
-	volume = 0.65
-}
-music = {
-	name = "general_war_2"
-	file = "general_war_theattack.ogg"
-	volume = 0.65
-}
-
-
-# Allies Peace:
-music = {
-	name = "allies_peace_1"
-	file = "allies_peace_morningofdday.ogg"
-	volume = 0.65
-}
-music = {
-	name = "allies_peace_2"
-	file = "endofthetour.ogg"
-	volume = 0.65
-}
-
-
-# Allies War:
-music = {
-	name = "allies_war_1"
-	file = "wearesoldiers.ogg"
-	volume = 0.65
-}
-music = {
-	name = "allies_war_2"
-	file = "allies_war_theroyalairforce.ogg"
-	volume = 0.65
-}
-
-
-# Axis Peace:
-music = {
-	name = "axis_peace_1"
-	file = "axis_peace_krakow.ogg"
-	volume = 0.65
-}
-music = {
-	name = "axis_peace_2"
-	file = "luftwaffemarch_reprise.ogg"
-	volume = 0.65
-}
-
-
-# Axis War:
-music = {
-	name = "axis_war_1"
-	file = "axistheme.ogg"
-	volume = 0.65
-}
-music = {
-	name = "axis_war_2"
-	file = "heavywater.ogg"
-	volume = 0.65
-}
-music = {
-	name = "axis_war_3"
-	file = "operationbarbarossa.ogg"
-	volume = 0.65
-}
-music = {
-	name = "axis_war_4"
-	file = "war_axis_1_daysofthunder.ogg"
-	volume = 0.65
-}
-
-
-# Comintern Peace:
-
-music = {
-	name = "comintern_peace_1"
-	file = "motherrussia.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "comintern_peace_2"
-	file = "theredarmy.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "comintern_peace_3"
-	file = "sovietvictory.ogg"
-	volume = 0.65
-}
-
-# Comintern War:
-
-music = {
-	name = "comintern_war_1"
-	file = "themightofsovietunion.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "comintern_war_2"
-	file = "cominterntheme.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "comintern_war_3"
-	file = "thegreatpatrioticwar.ogg"
-	volume = 0.65
-}
-
-# North Korean Music:
+# North Korea ##################
 
 music = {
 	name = "north_korea_1"
@@ -161,5 +30,273 @@ music = {
 music = {
 	name = "north_korea_4"
 	file = "nkr_4.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "aegukka"
+	file = "aegukka.ogg"
+	volume = 0.65
+}
+
+# USSR ##################
+
+music = {
+	name = "ussr_anthem"
+	file = "ussr_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "katyusha"
+	file = "katyusha.ogg"
+	volume = 0.65
+}
+
+# Scotland ##################
+
+music = {
+	name = "flower_of_scotland"
+	file = "flower_of_scotland.ogg"
+	volume = 0.65
+}
+
+# USA ##################
+
+music = {
+	name = "the_star_spangled_banner"
+	file = "the_star_spangled_banner.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "The_Times_They_Are_a-Changin"
+	file = "The_Times_They_Are_a-Changin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Blowing_In_The_Wind"
+	file = "Blowing_In_The_Wind.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "All_Along_The_Watchtower"
+	file = "All_Along_The_Watchtower.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "white_rabbit"
+	file = "white_rabbit.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "strange_fruit"
+	file = "strange_fruit.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "IWishIKnewHowItWouldFeelToBeFree"
+	file = "IWishIKnewHowItWouldFeelToBeFree.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "for_what_its_worth"
+	file = "for_what_its_worth.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "fortunate_son"
+	file = "fortunate_son.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "dont_fear_the_reaper"
+	file = "dont_fear_the_reaper.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "adagio_for_strings"
+	file = "adagio_for_strings.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "okie_from_muskogee"
+	file = "okie_from_muskogee.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rock_around_the_clock"
+	file = "rock_around_the_clock.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "aint_i_right"
+	file = "aint_i_right.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "jailhouse_rock"
+	file = "jailhouse_rock.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hound_dog"
+	file = "hound_dog.ogg"
+	volume = 0.65
+}
+
+# UK ##################
+
+music = {
+	name = "imagine"
+	file = "imagine.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "god_save_the_queen_sex_pistols"
+	file = "god_save_the_queen_sex_pistols.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "we_gotta_get_out_of_this_place"
+	file = "we_gotta_get_out_of_this_place.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "paint_it_black"
+	file = "paint_it_black.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sympathy_for_the_devil"
+	file = "sympathy_for_the_devil.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "gimme_shelter"
+	file = "gimme_shelter.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "satisfaction"
+	file = "satisfaction.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "my_generation"
+	file = "my_generation.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "baba_oriley"
+	file = "baba_oriley.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "stairway_to_heaven"
+	file = "stairway_to_heaven.ogg"
+	volume = 0.65
+}
+
+# Israel ##################
+
+music = {
+	name = "exodus"
+	file = "exodus.ogg"
+	volume = 0.65
+}
+
+# France ##################
+
+music = {
+	name = "la_vie_en_rose"
+	file = "la_vie_en_rose.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "non_je_ne_regrette_rien"
+	file = "non_je_ne_regrette_rien.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "minor_swing"
+	file = "minor_swing.ogg"
+	volume = 0.65
+}
+
+# Germany ##################
+
+music = {
+	name = "ride_of_the_valkyries"
+	file = "ride_of_the_valkyries.ogg"
+	volume = 0.65
+}
+
+# EU ##################
+
+music = {
+	name = "ode_to_joy"
+	file = "ode_to_joy.ogg"
+	volume = 0.65
+}
+
+# Sweden ##################
+
+music = {
+	name = "waterloo"
+	file = "waterloo.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "dancing_queen"
+	file = "dancing_queen.ogg"
+	volume = 0.65
+}
+
+# Nuclear War ##################
+
+music = {
+	name = "the_end_of_the_world"
+	file = "the_end_of_the_world.ogg"
+	volume = 0.65
+}
+
+# Easter Eggs ##################
+
+music = {
+	name = "Dschinghis_Khan"
+	file = "Dschinghis_Khan.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rasputin"
+	file = "rasputin.ogg"
 	volume = 0.65
 }
