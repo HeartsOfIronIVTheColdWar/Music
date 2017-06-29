@@ -53,6 +53,192 @@ music = {
 	volume = 0.65
 }
 
+music = {
+	name = "kalinka"
+	file = "kalinka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "oh_fields_my_fields"
+	file = "oh_fields_my_fields.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "partisans_song"
+	file = "partisans_song.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "souliko"
+	file = "souliko.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_cliff"
+	file = "the_cliff.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "korobeiniki"
+	file = "korobeiniki.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_cossacks"
+	file = "the_cossacks.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "in_the_central_steppes"
+	file = "in_the_central_steppes.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "on_the_road"
+	file = "on_the_road.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "gandzia"
+	file = "gandzia.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "my_country"
+	file = "my_country.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "cossacks_song"
+	file = "cossacks_song.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_red_army_is_the_strongest"
+	file = "the_red_army_is_the_strongest.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "moscow_nights"
+	file = "moscow_nights.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_roads"
+	file = "the_roads.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "along_peterskaia_street"
+	file = "along_peterskaia_street.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "song_of_the_volga_boatman"
+	file = "song_of_the_volga_boatman.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "dark_eyes"
+	file = "dark_eyes.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "smuglianka"
+	file = "smuglianka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "lets_go"
+	file = "lets_go.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "troika_galop"
+	file = "troika_galop.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ah_nastassia"
+	file = "ah_nastassia.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_birch_tree"
+	file = "the_birch_tree.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "echelons_song"
+	file = "echelons_song.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_road_song"
+	file = "the_road_song.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "my_army"
+	file = "my_army.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_samovars"
+	file = "the_samovars.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "civil_war_songs"
+	file = "civil_war_songs.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "varchavianka"
+	file = "varchavianka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bella_ciao"
+	file = "bella_ciao.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "slavery_and_suffering"
+	file = "slavery_and_suffering.ogg"
+	volume = 0.65
+}
+
 # Scotland ##################
 
 music = {

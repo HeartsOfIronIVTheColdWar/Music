@@ -344,6 +344,506 @@ music = {
 	}
 }
 
+music = {
+	song = "kalinka"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "oh_fields_my_fields"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "partisans_song"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "souliko"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_cliff"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "korobeiniki"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_cossacks"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "in_the_central_steppes"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "on_the_road"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "gandzia"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "my_country"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "cossacks_song"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_red_army_is_the_strongest"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "moscow_nights"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_roads"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "along_peterskaia_street"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "song_of_the_volga_boatman"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "dark_eyes"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "smuglianka"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "lets_go"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "troika_galop"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "ah_nastassia"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_birch_tree"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "echelons_song"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_road_song"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "my_army"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_samovars"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "civil_war_songs"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "varchavianka"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "bella_ciao"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+				AND = {
+					tag = ITA
+					has_government = communism
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "slavery_and_suffering"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
 # SCOTLAND ##################
 
 music = {
