@@ -1,6 +1,8 @@
 
+# USA ##################
+
 music = {
-	song = "maintheme"
+	song = "maintheme" # actually eve of destruction hehe
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -8,277 +10,208 @@ music = {
 	}
 }
 
-# PEACE SONGS ##################
 music = {
-	song = "general_peace_1"
-	
+	song = "the_star_spangled_banner"
 	chance = {
 		modifier = {
-			factor = 1
-
-			has_war = no
-		}		
-	}	
-}
-
-music = {
-	song = "general_peace_2"
-	
-	chance = {
-		modifier = {
-			factor = 1
-
-			has_war = no
-		}		
-	}	
-}
-
-music = {
-	song = "general_peace_3"
-	
-	chance = {
-		modifier = {
-			factor = 1
-
-			has_war = no
-		}		
+			factor = 2
+			
+			tag = USA
+		}
 	}
 }
 
 music = {
-	song = "allies_peace_1"
+	song = "The_Times_They_Are_a-Changin"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "Blowing_In_The_Wind"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "All_Along_The_Watchtower"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "white_rabbit"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "strange_fruit"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "IWishIKnewHowItWouldFeelToBeFree"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}	
+
+music = {
+	song = "for_what_its_worth"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "fortunate_son"
 	
 	chance = {
 		modifier = {
 			factor = 2
-
-			has_war = no
-			has_government = democratic
-		}		
-	}	
+			
+			tag = USA
+		}
+		
+		modifier = {
+			factor = 5
+			
+			OR = {
+				has_war_with = VIN
+				AND = {
+					tag = VIN
+					has_war_with = USA
+				}
+			}
+		}
+	}
 }
 
 music = {
-	song = "allies_peace_2"
+	song = "dont_fear_the_reaper"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "adagio_for_strings"
 	
 	chance = {
 		modifier = {
 			factor = 2
-
-			has_war = no
-			has_government = democratic
-		}		
-	}	
+			
+			tag = USA
+		}
+		
+		modifier = {
+			factor = 5
+			
+			OR = {
+				has_war_with = VIN
+				AND = {
+					tag = VIN
+					has_war_with = USA
+				}
+			}
+		}
+	}
 }
 
 music = {
-	song = "axis_peace_1"
-	
+	song = "okie_from_muskogee"
 	chance = {
 		modifier = {
 			factor = 2
-
-			has_war = no
-			has_government = fascist
-		}		
-	}	
+			
+			tag = USA
+		}
+	}
 }
 
 music = {
-	song = "axis_peace_2"
-	
+	song = "rock_around_the_clock"
 	chance = {
 		modifier = {
 			factor = 2
-
-			has_war = no
-			has_government = fascist
-		}		
-	}	
-}
-
-# WAR SONGS ####################
+			
+			tag = USA
+		}
+	}
+}	
 
 music = {
-	song = "general_war_1"
-	
-	chance = {
-		modifier = {
-			factor = 1
-
-			has_war = yes
-		}		
-	}	
-}
-
-music = {
-	song = "general_war_2"
-	
-	chance = {
-		modifier = {
-			factor = 1
-
-			has_war = yes
-		}		
-	}	
-}
-
-music = {
-	song = "axis_war_1"
-	
+	song = "aint_i_right"
 	chance = {
 		modifier = {
 			factor = 2
-
-			has_war = yes
-			has_government = fascist
-		}		
-	}	
+			
+			tag = USA
+		}
+	}
 }
 
 music = {
-	song = "axis_war_2"
-	
+	song = "jailhouse_rock"
 	chance = {
 		modifier = {
 			factor = 2
-
-			has_war = yes
-			has_government = fascist
-		}		
-	}	
+			
+			tag = USA
+		}
+	}
 }
 
 music = {
-	song = "axis_war_3"
-	
+	song = "hound_dog"
 	chance = {
 		modifier = {
 			factor = 2
-
-			has_war = yes
-			has_government = fascist
-		}		
-	}	
+			
+			tag = USA
+		}
+	}
 }
-
-music = {
-	song = "axis_war_4"
 	
-	chance = {
-		modifier = {
-			factor = 2
-
-			has_war = yes
-			has_government = fascist
-		}		
-	}	
-}
-
-music = {
-	song = "allies_war_1"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			has_war = yes
-			has_government = democratic
-		}		
-	}	
-}
-
-music = {
-	song = "allies_war_2"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			has_war = yes
-			has_government = democratic
-		}		
-	}	
-}
-
-music = {
-	song = "comintern_peace_1"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			has_war = no
-			has_government = communism
-		}		
-	}	
-}
-
-music = {
-	song = "comintern_peace_2"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			has_war = no
-			has_government = communism
-		}		
-	}	
-}
-
-music = {
-	song = "comintern_peace_3"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			has_war = no
-			has_government = communism
-		}		
-	}	
-}
-
-
-music = {
-	song = "comintern_war_1"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			has_war = yes
-			has_government = communism
-		}		
-	}	
-}
-
-music = {
-	song = "comintern_war_2"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			has_war = yes
-			has_government = communism
-		}		
-	}	
-}
-
-music = {
-	song = "comintern_war_3"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			has_war = yes
-			has_government = communism
-		}		
-	}	
-}
 
 # NORTH KOREA BEST KOREA MUSIC ##################
 
@@ -355,6 +288,18 @@ music = {
 			tag = NKR
 		}		
 	}
+}
+
+music = {
+	song = "aegukka"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = NKR
+		}		
+	}
 	chance = {
 		modifier = {
 			factor = 0
@@ -363,5 +308,444 @@ music = {
 				tag = NKR
 			}
 		}
+	}
+}
+
+# MUSIC OF THE MOTHERLAND ##################
+
+music = {
+	song = "ussr_anthem"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "katyusha"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
+# SCOTLAND ##################
+
+music = {
+	song = "flower_of_scotland"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = ENG
+				tag = SCO
+			}
+		}
+	}
+}
+
+# UK ##################
+
+music = {
+	song = "imagine"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "god_save_the_queen_sex_pistols"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "we_gotta_get_out_of_this_place"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+		
+		modifier = {
+			factor = 5
+			
+			OR = {
+				has_war_with = VIN
+				AND = {
+					tag = VIN
+					has_war_with = USA
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "paint_it_black"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+		
+		modifier = {
+			factor = 5
+			
+			OR = {
+				has_war_with = VIN
+				AND = {
+					tag = VIN
+					has_war_with = USA
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "sympathy_for_the_devil"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+		
+		modifier = {
+			factor = 5
+			
+			OR = {
+				has_war_with = VIN
+				AND = {
+					tag = VIN
+					has_war_with = USA
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "gimme_shelter"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+		
+		modifier = {
+			factor = 5
+			
+			OR = {
+				has_war_with = VIN
+				AND = {
+					tag = VIN
+					has_war_with = USA
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "satisfaction"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "my_generation"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "baba_oriley"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "stairway_to_heaven"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+# ISRAEL ##################
+
+music = {
+	song = "exodus"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ISR
+		}
+	}
+}
+
+# FRANCE ##################
+
+music = {
+	song = "la_vie_en_rose"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = FRA
+		}
+	}
+}
+
+music = {
+	song = "non_je_ne_regrette_rien"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = FRA
+		}
+	}
+}
+
+music = {
+	song = "minor_swing"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = FRA
+		}
+	}
+}
+
+# GERMANY
+
+music = {
+	song = "ride_of_the_valkyries"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = GER
+				tag = WGR
+				tag = DDR
+			}
+			NOT = {
+				has_government = communism
+			}
+		}
+		
+		modifier = {
+			factor = 5
+			
+			OR = {
+				has_war_with = VIN
+				AND = {
+					tag = VIN
+					has_war_with = USA
+				}
+			}
+		}
+	}
+}
+# SWEDEN ##################
+
+music = {
+	song = "waterloo"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = SWE
+		}
+	}
+}
+
+music = {
+	song = "dancing_queen"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = SWE
+		}
+	}
+}
+
+# EU ##################
+
+music = {
+	song = "ode_to_joy"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			has_idea = eu_member
+		}
+	}
+}
+
+# NUCLEAR WAR ##################
+
+music = {
+	song = "the_end_of_the_world"
+	
+	chance = {
+		modifier = {
+			factor = 10
+			
+			USA = {
+				has_war_with = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				USA = {
+					has_war_with = SOV
+				}
+			}
+		}
+	}
+}
+
+# EASTER EGGS ##################
+
+music = {
+	song = "Dschinghis_Khan"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = MON
+			OR = {
+				has_government = autocratic
+				has_government = fascist
+				has_government = national_populist
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = MON
+				OR = {
+					has_government = autocratic
+					has_government = fascist
+					has_government = national_populist
+				}
+			}
+		}				
+	}
+}
+
+music = {
+	song = "rasputin"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				tag = RUS
+			}
+			OR = {
+				has_government = autocratic
+				has_government = fascist
+				has_government = authoritarian_democrat
+				has_government = paternal_autocrat
+				has_government = national_populist
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = SOV
+					tag = RUS
+				}
+				OR = {
+					has_government = autocratic
+					has_government = fascist
+					has_government = authoritarian_democrat
+					has_government = paternal_autocrat
+					has_government = national_populist
+				}
+			}
+		}				
 	}
 }
