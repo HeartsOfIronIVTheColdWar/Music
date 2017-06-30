@@ -345,6 +345,138 @@ music = {
 	volume = 0.65
 }
 
+music = {
+	name = "blame_it_on_the_boogie"
+	file = "blame_it_on_the_boogie.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "johnny_b_goode"
+	file = "johnny_b_goode.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "anything_goes"
+	file = "anything_goes.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "come_fly_with_me"
+	file = "come_fly_with_me.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ive_got_the_world_on_a_string"
+	file = "ive_got_the_world_on_a_string.ogg"
+	volume = 0.65
+}
+
+music = { #weird mix, try to find a replacement
+	name = "i_got_you"
+	file = "i_got_you.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "get_up"
+	file = "get_up.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "folsom"
+	file = "folsom.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "i_walk_the_line"
+	file = "i_walk_the_line.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ring_of_fire"
+	file = "ring_of_fire.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "great_balls_of_fire"
+	file = "great_balls_of_fire.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "tutti_frutti"
+	file = "tutti_frutti.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ymca"
+	file = "ymca.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "river_deep_mountain_high"
+	file = "river_deep_mountain_high.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "i_say_a_little_prayer_for_you"
+	file = "i_say_a_little_prayer_for_you.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "jolene"
+	file = "jolene.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "9_to_5"
+	file = "9_to_5.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "islands_in_the_stream"
+	file = "islands_in_the_stream.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hallelujah_i_love_her_so"
+	file = "hallelujah_i_love_her_so.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hit_the_road_jack"
+	file = "hit_the_road_jack.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "what_a_wonderful_world"
+	file = "what_a_wonderful_world.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "girls_just_want_to_have_fun"
+	file = "girls_just_want_to_have_fun.ogg"
+	volume = 0.65
+}
+
 # UK ##################
 
 music = {
@@ -407,6 +539,60 @@ music = {
 	volume = 0.65
 }
 
+music = {
+	name = "sailing"
+	file = "sailing.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rebel_rebel"
+	file = "rebel_rebel.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "life_on_mars"
+	file = "life_on_mars.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "space_oddity"
+	file = "space_oddity.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rocket_man"
+	file = "rocket_man.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "tiny_dancer"
+	file = "tiny_dancer.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "son_of_a_preacher_man"
+	file = "son_of_a_preacher_man.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "total_eclipse_of_the_heart"
+	file = "total_eclipse_of_the_heart.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "holding_out_for_a_hero"
+	file = "holding_out_for_a_hero.ogg"
+	volume = 0.65
+}
+
 # Israel ##################
 
 music = {
@@ -430,6 +616,12 @@ music = {
 }
 
 music = {
+	name = "autumn_leaves"
+	file = "autumn_leaves.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "minor_swing"
 	file = "minor_swing.ogg"
 	volume = 0.65
@@ -440,14 +632,6 @@ music = {
 music = {
 	name = "ride_of_the_valkyries"
 	file = "ride_of_the_valkyries.ogg"
-	volume = 0.65
-}
-
-# EU ##################
-
-music = {
-	name = "ode_to_joy"
-	file = "ode_to_joy.ogg"
 	volume = 0.65
 }
 
@@ -462,6 +646,30 @@ music = {
 music = {
 	name = "dancing_queen"
 	file = "dancing_queen.ogg"
+	volume = 0.65
+}
+
+# Australia ##################
+
+music = {
+	name = "down_under"
+	file = "down_under.ogg"
+	volume = 0.65
+}
+
+# Jamaica ##################
+
+music = {
+	name = "day-o"
+	file = "day-o.ogg"
+	volume = 0.65
+}
+
+# EU ##################
+
+music = {
+	name = "ode_to_joy"
+	file = "ode_to_joy.ogg"
 	volume = 0.65
 }
 

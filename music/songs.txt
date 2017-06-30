@@ -211,7 +211,248 @@ music = {
 		}
 	}
 }
-	
+
+music = {
+	song = "blame_it_on_the_boogie"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "johnny_b_goode"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "anything_goes"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "come_fly_with_me"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "ive_got_the_world_on_a_string"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = { #weird mix, try to find a replacement
+	song = "i_got_you"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "get_up"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "folsom"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "i_walk_the_line"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "ring_of_fire"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "great_balls_of_fire"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "tutti_frutti"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "ymca"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "river_deep_mountain_high"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "i_say_a_little_prayer_for_you"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "jolene"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "9_to_5"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "islands_in_the_stream"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "hallelujah_i_love_her_so"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "hit_the_road_jack"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "what_a_wonderful_world"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "girls_just_want_to_have_fun"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
 
 # NORTH KOREA BEST KOREA MUSIC ##################
 
@@ -1031,6 +1272,114 @@ music = {
 	}
 }
 
+music = {
+	song = "sailing"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "rebel_rebel"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "life_on_mars"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "space_oddity"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "rocket_man"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "tiny_dancer"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "son_of_a_preacher_man"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "total_eclipse_of_the_heart"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "holding_out_for_a_hero"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
 # ISRAEL ##################
 
 music = {
@@ -1072,6 +1421,18 @@ music = {
 }
 
 music = {
+	song = "autumn_leaves"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = FRA
+		}
+	}
+}
+
+music = {
 	song = "minor_swing"
 	
 	chance = {
@@ -1083,7 +1444,7 @@ music = {
 	}
 }
 
-# GERMANY
+# GERMANY ##################
 
 music = {
 	song = "ride_of_the_valkyries"
@@ -1137,6 +1498,37 @@ music = {
 			factor = 2
 			
 			tag = SWE
+		}
+	}
+}
+
+# AUSTRALIA ##################
+
+music = {
+	song = "down_under"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = AST
+		}
+	}
+}
+
+# JAMAICA ##################
+
+music = {
+	song = "day-o"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = JAM
+				tag = USA
+			}
 		}
 	}
 }
