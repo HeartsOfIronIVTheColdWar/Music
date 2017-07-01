@@ -1085,6 +1085,22 @@ music = {
 	}
 }
 
+music = {
+	song = "when_we_were_at_war"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			OR = {
+				tag = SOV
+				is_subject_of = SOV
+				is_in_faction_with = SOV
+			}
+		}
+	}
+}
+
 # SCOTLAND ##################
 
 music = {
