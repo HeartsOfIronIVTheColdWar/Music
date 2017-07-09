@@ -454,6 +454,17 @@ music = {
 	}
 }
 
+music = {
+	song = "fast_car"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
 # NORTH KOREA BEST KOREA MUSIC ##################
 
 music = {

@@ -1,5 +1,4 @@
 ﻿l_english:
- # NEW MUSIC NAMES HERE BELOW
  north_korea_1:0 "Korea Does What It Is Determined To Do"
  north_korea_2:0 "We Will Safeguard The Leadership of The Revolution With Desperate Courage"
  north_korea_3:0 "We Will Glorify Our Conviction of Victory"
@@ -81,6 +80,7 @@
  girls_just_want_to_have_fun:0 "Girls Just Want to Have Fun - Cyndi Lauper"
  total_eclipse_of_the_heart:0 "Total Eclipse of the Heart - Bonnie Tyler"
  holding_out_for_a_hero:0 "Holding Out for a Hero - Bonnie Tyler"
+ fast_car:0 "Fast Car - Tracy Chapman"
  # RED ARMY CHOIR SONGS, I didn't put the effort into getting the Russian names
  kalinka:0 "Kalinka"
  oh_fields_my_fields: "Oh Fields, My Fields"
@@ -113,4 +113,5 @@
  varchavianka:0 "Varchavianka"
  bella_ciao:0 "Bella Ciao"
  slavery_and_suffering:0 "Slavery and Suffering"
+ #
  when_we_were_at_war:0 "When We Were At War"
