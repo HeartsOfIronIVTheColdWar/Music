@@ -465,6 +465,149 @@ music = {
 	}
 }
 
+music = {
+	song = "september"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "que_sera_sera"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "at_the_hop"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "fever"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "manana"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "hes_a_tramp"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "blue_suede_shoes"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "peggy_sue"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "signed_sealed_delivered"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "superstition"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "at_last"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "i_just_want_to_make_love_to_you"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "take_five"
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = USA
+		}
+	}
+}
+
 # NORTH KOREA BEST KOREA MUSIC ##################
 
 music = {
@@ -1397,6 +1540,42 @@ music = {
 
 music = {
 	song = "holding_out_for_a_hero"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "she_loves_you"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "yesterday"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "love_me_do"
 	
 	chance = {
 		modifier = {
